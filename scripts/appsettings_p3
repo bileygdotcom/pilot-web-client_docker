@@ -1,0 +1,12 @@
+  "AppSettings": {
+    "FilesStorageDirectory": "/App/storage",
+    "DisplacementFactor": 1.248
+  },
+
+  "AuthSettings": {
+    "Issuer": "PilotWebIssuer",
+    "SecretKey": "SecretKey@30824995-BD42-4850-87ED-EE8A2AE06ACA",
+    "TokenLifeTimeDays": 2,
+    "IdleSessionTimeout": 20
+  }
+}

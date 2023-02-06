@@ -6,6 +6,7 @@ LABEL project="Pilot-Web-Client"\
       mantainer="bileyg"\
       company="Ascon Complex"
 
+ENV ASPNETCORE_URLS=http://+:80
 COPY build App/
 COPY scripts /App/
 WORKDIR /App

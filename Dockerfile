@@ -1,8 +1,8 @@
 # syntax=docker/dockerfile:1
-FROM bileyg/hangar:latest
+FROM bileyg/hangar:1.1
 
 LABEL project="Pilot-Web-Client"\
-      version="1.2" \
+      version="1.3" \
       mantainer="bileyg"\
       company="Ascon Complex"
 
